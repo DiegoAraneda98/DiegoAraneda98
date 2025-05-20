@@ -1,8 +1,9 @@
-## ¡Hola! 👋 Soy Diego Araneda
+### ¡Hola! 👋 Soy Diego Araneda
 
 Soy estudiante de último año de Ingeniería Civil en Informática en la **Universidad Católica de la Santísima Concepción (UCSC)**.  
 Actualmente estoy desarrollando una plataforma web para abogados usando **Laravel**, **TailwindCSS** y **FilamentPHP**.
 
+- ⚡ **Dato curioso:** Me apasiona aplicar la tecnología para resolver problemas reales, especialmente en el ámbito social y legal.
 - 🔭 Actualmente enfocado en:
   - Desarrollo web full-stack
   - Automatización y ciencia de datos
@@ -13,44 +14,24 @@ Actualmente estoy desarrollando una plataforma web para abogados usando **Larave
 
 ## 💻 Mis habilidades
 
-### Lenguajes
-<span> 
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</span>
+### 🧠 Lenguajes de Programación
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,php,python,html,css,js)](https://skillicons.dev)
 
-### Frameworks
-<span>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/FilamentPHP-0ea5e9?style=for-the-badge&logo=php&logoColor=white">
-</span>
+### 🧩 Frameworks y Librerías
+[![My Skills](https://skillicons.dev/icons?i=laravel,tailwind,bootstrap,astro)](https://skillicons.dev)
 
-### Bases de datos
-<span>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</span>
+### 🗄️ Bases de Datos
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
-### IDEs
-<span>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
-</span>
+### 🧰 IDEs
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio)](https://skillicons.dev)
 
-### Herramientas y tecnologías
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-</span>
+### ⚙️ Herramientas y Tecnologías
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+<img src="https://raw.githubusercontent.com/DiegoAraneda98/DiegoAraneda98/main/xampp.jpg" alt="xampp" width="48"/>
+
+
+
 
 ---
 
