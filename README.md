@@ -28,7 +28,7 @@ Actualmente estoy desarrollando una plataforma web para abogados usando **Larave
 
 ### ⚙️ Herramientas y Tecnologías
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-<img src="https://raw.githubusercontent.com/DiegoAraneda98/DiegoAraneda98/main/xampp.jpg" alt="xampp" width="48"/>
+<img src="https://raw.githubusercontent.com/DiegoAraneda98/DiegoAraneda98/main/xampp.png" alt="xampp" width="48"/>
 
 
 
