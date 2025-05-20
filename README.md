@@ -28,10 +28,7 @@ Actualmente estoy desarrollando una plataforma web para abogados usando **Larave
 
 ### ⚙️ Herramientas y Tecnologías
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-<img src="https://raw.githubusercontent.com/DiegoAraneda98/DiegoAraneda98/main/xampp.png" alt="xampp" width="48"/>
-
-
-
+<img src="https://github.com/user-attachments/assets/4b4c8158-1447-40b3-8d1c-483d6ba1424c" height="48" width="48" style="border-radius: 100%;" />
 
 ---
 
@@ -48,14 +45,13 @@ Actualmente estoy desarrollando una plataforma web para abogados usando **Larave
 
 ---
 
-## 📫 Contacto
+## 📫 Contacto:
 
-- 📧 diego.araneda@email.com *(actualízalo si quieres que sea público)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario/) *(actualízalo con tu perfil real)*
+- 📧 diego.alberto.ah98@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/diego-araneda-hidalgo)
 
 ---
-
-## 📊 GitHub Stats:
+## 📊 Datos GitHub:
 
 ![](https://github-readme-stats.vercel.app/api?username=DiegoAraneda98&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DiegoAraneda98&theme=dark&hide_border=false)<br/>
