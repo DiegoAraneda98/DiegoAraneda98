@@ -1,7 +1,6 @@
 ### ¡Hola! 👋 Soy Diego Araneda
 
-Soy estudiante de último año de Ingeniería Civil en Informática en la **Universidad Católica de la Santísima Concepción (UCSC)**.  
-Actualmente estoy desarrollando una plataforma web para abogados usando **Laravel**, **TailwindCSS** y **FilamentPHP**.
+Soy Ingeniería Civil en Informático de la **Universidad Católica de la Santísima Concepción (UCSC)**.
 
 - ⚡ **Dato curioso:** Me apasiona aplicar la tecnología para resolver problemas reales, especialmente en el ámbito social y legal.
 - 🔭 Actualmente enfocado en:
