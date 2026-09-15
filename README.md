@@ -1,6 +1,6 @@
 ### ¡Hola! 👋 Soy Diego Araneda
 
-Soy Ingeniería Civil en Informático de la **Universidad Católica de la Santísima Concepción (UCSC)**.
+Soy Ingeniero Civil en Informático de la **Universidad Católica de la Santísima Concepción (UCSC)**.
 
 - ⚡ **Dato curioso:** Me apasiona aplicar la tecnología para resolver problemas reales, especialmente en el ámbito social y legal.
 - 🔭 Actualmente enfocado en:
